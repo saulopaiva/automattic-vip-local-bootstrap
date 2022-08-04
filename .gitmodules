@@ -1,0 +1,6 @@
+[submodule "vip-bases/vip-go-skeleton"]
+	path = vip-bases/vip-go-skeleton
+	url = git@github.com:Automattic/vip-go-skeleton.git
+[submodule "vip-bases/vip-go-mu-plugins"]
+	path = vip-bases/vip-go-mu-plugins
+	url = git@github.com:Automattic/vip-go-mu-plugins.git
